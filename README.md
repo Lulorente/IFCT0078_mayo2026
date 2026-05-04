@@ -2,5 +2,3 @@
 todoperfekto
 sisisi simbamiau
 
-
-
